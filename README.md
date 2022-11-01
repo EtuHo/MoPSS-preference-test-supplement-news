@@ -13,3 +13,8 @@ S Table 2. Raw data of the single paired comparisons of the enrichments of the c
 
 S Table 3. Raw data of the single paired comparisons of the enrichments of the categories foraging, structural and housing over the inactive time of the 46-hour testing cycle.
 
+placePrefData_S1_Table_all. Raw data of the single paired comparisons of the enrichments of the categories foraging, structural and housing over the entire test period of 46 hours.
+placePrefData_S2_Table_active. Raw data of the single paired comparisons of the enrichments of the categories foraging, structural and housing over the active time of the 46-hour testing cycle.
+placePrefData_Table_inactive.  Raw data of the single paired comparisons of the enrichments of the categories foraging, structural and housing over the inactive time of the 46-hour testing cycle.
+
+R Codes: all R codes used in the above mentioned Study
